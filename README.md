@@ -9,6 +9,8 @@ My acheivements resulted from a sincere, personal passion for engineering that t
 
 I am currently transitioning into Software Engineering via the University of Massachusetts Global Software Engineering Bootcamp, and actively exploring hybrid or remote career opportunities in the West Los Angeles/South Bay areas, as well as remote world-wide.
 
+This GitHUb containes some of my current independent projects, as well as additional projects related to UMASS Global's Software Engineering Bootcamp
+
 Portfolio: https://shangitapaul.github.io/
 
 LinkedIn: https://www.linkedin.com/in/shangitapaul/
