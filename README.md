@@ -5,7 +5,7 @@ My engineering career was fueled by a childhood passion for music. Despite my pa
 
 After earning a B.S. in Physics from the University of Massachusetts, Amherst, I went onto pursue a successful career in electrical engineering; specializing in hardware design within the Pro-Audio and Consumer Electronics sectors.
 
-My acheivements resulted from a sincere, personal passion for engineering that took root in my childhood and has shaped my adulthood. My unwavering determination to solve problems and devise innovative solutions through  self-guided practice and active lewrning is a benchmark of my lifestyle.
+My acheivements resulted from a sincere, personal passion for engineering that took root in my childhood and has shaped my adulthood. My unwavering determination to solve problems and devise innovative solutions through  self-guided practice and active learning is a benchmark of my lifestyle.
 
 I am currently transitioning into Software Engineering via the University of Massachusetts Global Software Engineering Bootcamp, and actively exploring hybrid or remote career opportunities in the West Los Angeles/South Bay areas, as well as remote world-wide.
 
