@@ -1,7 +1,7 @@
 # Software Engineer| Music Industry Freelancer| Technologist| Musician| Surfer
 
 
-My career began from a childhood passion for repairing and modifying electronic components of old amplifiers and effects pedals in order to play music. My fascination with creating sound from electronics led to a Bachelor of Science degree in Physics, and propelled me towards a career in electrical engineering. Throughout my professional journey, I specialized in hardware and power supply design within the Pro-Audio and Consumer Electronics sectors.
+My career began from a childhood passion for repairing and modifying electronic components of old amplifiers and effects pedals in order to play music. My fascination with creating sound from electronics led to a Bachelor of Science degree in Physics, and propelled me towards a career in electrical engineering. Throughout my professional journey, I specialized in hardware and power supply design within the Professional and Consumer Audio sectors.
 
 I am currently transitioning into Software Engineering via the University of Massachusetts Global Software Engineering Bootcamp, and actively exploring hybrid or remote career opportunities in the West Los Angeles/South Bay areas, as well as remote world-wide.
 
