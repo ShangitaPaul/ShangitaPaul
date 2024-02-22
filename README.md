@@ -7,7 +7,7 @@ I am currently advancing my development skills via the University of Massachuset
 
 My acheivements resulted from a sincere, personal passion for engineering that took root in my childhood and has shaped my adulthood. My unwavering determination to solve problems and devise innovative solutions through  self-guided practice and active learning is a benchmark of my lifestyle.
 
-This GitHUb contains some of my current independent projects, freelance work for cients, as well as additional projects related to UMASS Global's Software Engineering Bootcamp
+This GitHUb contains some of my current independent projects, freelance work for clients, as well as additional projects related to UMASS Global's Software Engineering Bootcamp
 
 Portfolio: https://shangitapaul.github.io/
 
